@@ -1,2 +1,2 @@
 # SushiIOS
-School project about sushi IOS app
+:green_apple:School project about sushi IOS app
